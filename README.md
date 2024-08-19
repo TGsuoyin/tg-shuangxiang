@@ -8,7 +8,7 @@
 * [👉TG快三机器人](https://t.me/kstest1s)
 * [👉TG红包扫雷、可自助充值、提现、自动发包、自动抢包](https://github.com/mmmrp/tg_hongbao)
 * [👉TG记账机器人-分销-包月-自助充值](https://t.me/tg_tj_bot)
-* [👉安卓远控 肉鸡 盗U](https://t.me/yuankong09)
+ [👉TG联系我](https://t.me/question_r0)
 ## 安装教程
 1.首先在服务器安装node.js环境<br>
 2.使用`npm i`命令安装项目所需的依赖包<br>
